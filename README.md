@@ -1,4 +1,4 @@
-## Hello world
+## About me
 
 Montreal-born computer science and biology major currently completing an exchange semester at the University of Edinburgh.
 
